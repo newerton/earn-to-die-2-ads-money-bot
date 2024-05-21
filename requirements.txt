@@ -6,4 +6,4 @@ numpy>=1.22
 opencv-python==4.5.4.60
 packaging==21.3
 pyclick==0.0.2
-requests==2.31.0
+requests==2.32.0
